@@ -1,1 +1,10 @@
 Hello world !
+
+int i =10;
+while(true){
+  i--;
+  System.out.println("Fuck you!");
+  if(i==0){
+    break;
+  }
+}
