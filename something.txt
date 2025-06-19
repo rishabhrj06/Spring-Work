@@ -9,9 +9,5 @@ while(true){
   }
 }
 Hola!
-<<<<<<< HEAD
 holllla!
 hollllllla!
-=======
-holla!
->>>>>>> feature2
